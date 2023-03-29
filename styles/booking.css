@@ -1,0 +1,73 @@
+.grid_1-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.bookingbillede {
+  width: 80%;
+  padding: 57px;
+}
+
+.abook {
+  text-decoration: none;
+  border-bottom: 3px solid;
+  color: #6c682d;
+}
+
+.bookingtekst {
+  text-align: left;
+}
+
+.bookingtekst2 {
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.tekst {
+  margin: 80px;
+}
+
+.eventteskt2 {
+  text-align: right;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.eventtekst {
+  text-align: left;
+}
+
+.eventtekst1 {
+  margin: 105px;
+  padding: 37px;
+}
+
+.grid_1-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.eventtekst6 {
+  text-align: left;
+}
+
+.eventtekst3,
+.eventtekst4 {
+  font-size: 1.2rem;
+  line-height: 2;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.eventbillede {
+  width: 90%;
+}
+
+#myVideo2 {
+  width: 60%;
+  margin: 105px;
+  padding: 37px;
+}

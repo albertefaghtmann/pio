@@ -1,0 +1,59 @@
+.om_pio_img {
+  width: 88%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  margin: 10px;
+}
+
+section {
+  display: grid;
+  gap: 2rem;
+}
+
+article {
+  display: grid;
+  gap: 3rem;
+}
+
+@media (min-width: 600px) {
+  article {
+    grid-template-columns: 1fr 1fr;
+    margin: 10%;
+    display: grid;
+  }
+
+  .grid_1 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.småbilleder1,
+.småbilleder2 {
+  width: 85%;
+}
+
+img {
+  width: 100%;
+  display: block;
+  position: center;
+}
+
+.tekstboks1 {
+}
+
+.p_ompio,
+.p_ompio2 {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.overskrift1,
+.overskrift2 {
+  font-size: 2.3rem;
+  text-align: left;
+}

@@ -1,0 +1,14 @@
+.col_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  align-self: stretch;
+}
+
+.col-lg-3 img {
+  width: 13px;
+}
+
+#myVideo {
+  width: 100%;
+}
